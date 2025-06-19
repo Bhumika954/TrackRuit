@@ -4,19 +4,23 @@ Key Features and Functionality
 Job Exploration:
 
 The homepage  displays an "Explore Jobs" section with a grid of job cards.
+
 Each job card provides essential information like Job Title, Company, and Location. Examples include "Software Developer-DC Area," "Software Engineer," and ".NET Software Developer Jobs."
+
 A "View Details" button on each card allows users to navigate to a dedicated page for more in-depth job descriptions.
 Detailed Job View:
 
 Clicking "View Details" (e.g., for "Software Developer (Junior, Mid and Senior)" from Spry Methods, Inc.) leads to a comprehensive job description page 
+
 This page includes:
 Basic Information: Company, Location, Remote status, Job Type, and Posted At.
 Position Overview: A general description of the role.
 Daily Responsibilities: A bulleted list outlining the day-to-day tasks.
+
 Required Skills and Experience: Detailed list of technical skills (e.g., JavaScript, Python, React, Node.js, .NET, C#), tools (Git, GitLab CI/CD, Jira, Kubernetes, Docker), and methodologies (Agile Practices, SAFe Agile).
 At the bottom of the detailed job view, "Apply Now" and "Go Back" buttons are present.
-Resume Tracking:
 
+Resume Tracking:
 The "Tracker" link in the navigation bar leads to a "Resume Tracker" page 
 This feature enables users to upload their resumes.
 Uploaded resumes are displayed with their filename (e.g., "Bhumika_S_Resume.pdf") and a "Delete" option, allowing users to manage their uploaded files.
@@ -148,5 +152,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Screenshots
-![image](https://github.com/user-attachments/assets/a715e7be-10e4-4a50-977b-d009efc2bfa2)
+![WhatsApp Image 2025-06-19 at 23 32 58_ca8a1fc0](https://github.com/user-attachments/assets/94d9962f-53ff-4ee0-93fc-43abb3893021)
+
+![WhatsApp Image 2025-06-19 at 23 33 47_236ab2d0](https://github.com/user-attachments/assets/36dbf33f-2db0-484b-8153-1cab5bdaa5dd)
+
+![WhatsApp Image 2025-06-19 at 23 34 11_1fe27047](https://github.com/user-attachments/assets/184ebd9f-753f-47a4-9ef1-82e0331701a8)
+
+![WhatsApp Image 2025-06-19 at 23 34 42_c8a6c099](https://github.com/user-attachments/assets/0898a816-ce8f-48fa-989e-e4a2a2918760)
+
+
+
+
 
